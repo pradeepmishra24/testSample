@@ -1,0 +1,66 @@
+INFO  09:14:55 Request starting HTTP/1.1 DEBUG http://localhost:6259/  0
+INFO  09:14:55 Request starting HTTP/1.1 GET http://localhost:6259/  
+INFO  09:14:55 Request finished in 119.3398ms 200 
+INFO  09:14:55 Request finished in 323.1717ms 200 
+INFO  09:14:55 Request starting HTTP/1.1 GET http://localhost:6259/favicon.ico  
+INFO  09:14:55 Request finished in 14.2181ms 200 
+INFO  09:15:00 Request starting HTTP/1.1 GET http://localhost:6259/api/values  
+INFO  09:15:00 Route matched with {action = "Get", controller = "Values"}. Executing action ccAppCore.ValuesController.Get (ccAppCore)
+INFO  09:15:00 Executing action method ccAppCore.ValuesController.Get (ccAppCore) - Validation state: Valid
+INFO  09:15:13 Executed action ccAppCore.ValuesController.Get (ccAppCore) in 13185.9688ms
+ERROR 09:15:13 An unhandled exception has occurred while executing the request.
+System.DivideByZeroException: Attempted to divide by zero.
+   at ccAppCore.ValuesController.Get() in F:\NodeElearningApp\ccAppCore\ccAppCore\ValuesController.cs:line 29
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+ERROR 09:15:13 Something went wrong: System.DivideByZeroException: Attempted to divide by zero.
+   at ccAppCore.ValuesController.Get() in F:\NodeElearningApp\ccAppCore\ccAppCore\ValuesController.cs:line 29
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+INFO  09:15:13 Request finished in 13593.4037ms 500 application/json
+INFO  09:55:50 Request starting HTTP/1.1 DEBUG http://localhost:6259/  0
+INFO  09:55:50 Request starting HTTP/1.1 GET http://localhost:6259/  
+INFO  09:55:50 Request finished in 72.4938ms 200 
+INFO  09:55:51 Request finished in 360.2878ms 200 
+INFO  09:55:51 Request starting HTTP/1.1 GET http://localhost:6259/favicon.ico  
+INFO  09:55:51 Request finished in 4.1886ms 200 
+INFO  09:56:33 Request starting HTTP/1.1 GET http://localhost:6259/api/values  
+INFO  09:56:33 Route matched with {action = "Get", controller = "Values"}. Executing action ccAppCore.ValuesController.Get (ccAppCore)
+INFO  09:56:33 Executing action method ccAppCore.ValuesController.Get (ccAppCore) - Validation state: Valid
+INFO  09:57:09 Executed action ccAppCore.ValuesController.Get (ccAppCore) in 36594.8716ms
+INFO  09:57:09 Request finished in 36749.1695ms 200 
+INFO  09:58:52 Request starting HTTP/1.1 GET http://localhost:6259/favicon.ico  
+INFO  09:58:52 Request finished in 4.1384ms 200 
+INFO  09:59:17 Request starting HTTP/1.1 GET http://localhost:6259/api/values  
+INFO  09:59:17 Route matched with {action = "Get", controller = "Values"}. Executing action ccAppCore.ValuesController.Get (ccAppCore)
+INFO  09:59:17 Executing action method ccAppCore.ValuesController.Get (ccAppCore) - Validation state: Valid
+INFO  10:01:24 Executed action ccAppCore.ValuesController.Get (ccAppCore) in 127232.2762ms
+INFO  10:01:24 Request finished in 127280.6777ms 200 
+INFO  10:01:24 Request starting HTTP/1.1 GET http://localhost:6259/favicon.ico  
+INFO  10:01:24 Request finished in 17.1456ms 200 

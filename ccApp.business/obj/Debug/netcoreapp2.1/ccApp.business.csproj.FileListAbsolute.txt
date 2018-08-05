@@ -1,0 +1,8 @@
+F:\NodeElearningApp\ccAppCore\ccApp.business\bin\Debug\netcoreapp2.1\ccApp.business.deps.json
+F:\NodeElearningApp\ccAppCore\ccApp.business\bin\Debug\netcoreapp2.1\ccApp.business.dll
+F:\NodeElearningApp\ccAppCore\ccApp.business\bin\Debug\netcoreapp2.1\ccApp.business.pdb
+F:\NodeElearningApp\ccAppCore\ccApp.business\obj\Debug\netcoreapp2.1\ccApp.business.csproj.CoreCompileInputs.cache
+F:\NodeElearningApp\ccAppCore\ccApp.business\obj\Debug\netcoreapp2.1\ccApp.business.AssemblyInfoInputs.cache
+F:\NodeElearningApp\ccAppCore\ccApp.business\obj\Debug\netcoreapp2.1\ccApp.business.AssemblyInfo.cs
+F:\NodeElearningApp\ccAppCore\ccApp.business\obj\Debug\netcoreapp2.1\ccApp.business.dll
+F:\NodeElearningApp\ccAppCore\ccApp.business\obj\Debug\netcoreapp2.1\ccApp.business.pdb

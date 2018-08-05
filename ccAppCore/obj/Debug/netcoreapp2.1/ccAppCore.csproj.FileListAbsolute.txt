@@ -1,0 +1,17 @@
+F:\NodeElearningApp\ccAppCore\ccAppCore\bin\Debug\netcoreapp2.1\ccAppCore.deps.json
+F:\NodeElearningApp\ccAppCore\ccAppCore\bin\Debug\netcoreapp2.1\ccAppCore.runtimeconfig.json
+F:\NodeElearningApp\ccAppCore\ccAppCore\bin\Debug\netcoreapp2.1\ccAppCore.runtimeconfig.dev.json
+F:\NodeElearningApp\ccAppCore\ccAppCore\bin\Debug\netcoreapp2.1\ccAppCore.dll
+F:\NodeElearningApp\ccAppCore\ccAppCore\bin\Debug\netcoreapp2.1\ccAppCore.pdb
+F:\NodeElearningApp\ccAppCore\ccAppCore\bin\Debug\netcoreapp2.1\ccApp.business.dll
+F:\NodeElearningApp\ccAppCore\ccAppCore\bin\Debug\netcoreapp2.1\ccApp.business.pdb
+F:\NodeElearningApp\ccAppCore\ccAppCore\obj\Debug\netcoreapp2.1\ccAppCore.csprojAssemblyReference.cache
+F:\NodeElearningApp\ccAppCore\ccAppCore\obj\Debug\netcoreapp2.1\ccAppCore.csproj.CoreCompileInputs.cache
+F:\NodeElearningApp\ccAppCore\ccAppCore\obj\Debug\netcoreapp2.1\ccAppCore.RazorAssemblyInfo.cache
+F:\NodeElearningApp\ccAppCore\ccAppCore\obj\Debug\netcoreapp2.1\ccAppCore.RazorAssemblyInfo.cs
+F:\NodeElearningApp\ccAppCore\ccAppCore\obj\Debug\netcoreapp2.1\ccAppCore.AssemblyInfoInputs.cache
+F:\NodeElearningApp\ccAppCore\ccAppCore\obj\Debug\netcoreapp2.1\ccAppCore.AssemblyInfo.cs
+F:\NodeElearningApp\ccAppCore\ccAppCore\obj\Debug\netcoreapp2.1\ccAppCore.RazorTargetAssemblyInfo.cache
+F:\NodeElearningApp\ccAppCore\ccAppCore\obj\Debug\netcoreapp2.1\ccAppCore.csproj.CopyComplete
+F:\NodeElearningApp\ccAppCore\ccAppCore\obj\Debug\netcoreapp2.1\ccAppCore.dll
+F:\NodeElearningApp\ccAppCore\ccAppCore\obj\Debug\netcoreapp2.1\ccAppCore.pdb
